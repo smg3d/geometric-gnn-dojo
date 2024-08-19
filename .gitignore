@@ -97,5 +97,5 @@ venv*/
 venv_gpu/
 lightning_logs
 .DS_Store
-notes/
 qm9/
+testing/
